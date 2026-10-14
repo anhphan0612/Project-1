@@ -20,5 +20,6 @@ Python - Ngôn ngữ chính
 OpenCV, numpy - Dùng để xử lý ảnh
 Qt/PySide6 (maybe) - Giao diện, overlay
 Tesseract/PaddleOCR (maybe) - OCR có sẵn
-mss - Chụp màn hình
+mss (maybe) - Chụp màn hình
+    Scap (maybe): Sử dụng Rust cho việc chụp ảnh màn hình, tận dụng hiệu năng, đóng gói thông qua Maturin rồi gửi sang Python xử lý
 Một mô hình dịch nào đó
